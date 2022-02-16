@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for student project presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-895-theory-of-parallel-systems-sma-5509-fall-2003/8cb179a052f742dce320ead20ee8e001_fp_sukha.pdf
+file: /media/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/8cb179a052f742dce320ead20ee8e001_fp_sukha.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: fp_sukha.pdf
 uid: 8cb179a0-52f7-42dc-e320-ead20ee8e001

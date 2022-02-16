@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-895-theory-of-parallel-systems-sma-5509-fall-2003/6b21591c215fe2bf1e924ae8b8e01211_sajindra_sharad.pdf
+file: /media/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/6b21591c215fe2bf1e924ae8b8e01211_sajindra_sharad.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: sajindra_sharad.pdf
 uid: 6b21591c-215f-e2bf-1e92-4ae8b8e01211
