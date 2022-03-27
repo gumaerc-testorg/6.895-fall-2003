@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0fcc1f6b-f683-c4ec-4863-7a5a7625fb99
 resourcetype: Document
 title: jasn_tylr_prpsl.pdf
 uid: 0c0de95c-a2d3-fa1a-111c-8aa947737251

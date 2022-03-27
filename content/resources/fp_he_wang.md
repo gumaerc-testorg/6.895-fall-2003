@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0fcc1f6b-f683-c4ec-4863-7a5a7625fb99
 resourcetype: Document
 title: fp_he_wang.pdf
 uid: aec264f8-b421-42cd-3e50-ced4f70797de

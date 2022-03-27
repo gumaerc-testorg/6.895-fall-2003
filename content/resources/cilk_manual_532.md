@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 168b835a-d6fc-24a3-3113-0cc27e24ebbc
 resourcetype: Document
 title: cilk_manual_532.pdf
 uid: 76329e7e-d4b9-01ed-6e20-a11a17ae2ae3

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 168b835a-d6fc-24a3-3113-0cc27e24ebbc
 resourcetype: Document
 title: cach_oblivs_focs.pdf
 uid: 7e5331aa-e765-482e-8725-1ba75d9aeabe

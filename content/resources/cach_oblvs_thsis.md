@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 168b835a-d6fc-24a3-3113-0cc27e24ebbc
 resourcetype: Document
 title: cach_oblvs_thsis.pdf
 uid: 6dc7de52-dcf1-3b53-cebf-2fe10ae6752a

@@ -65,9 +65,9 @@ Serial Performance and Caching
 
 Sorting Code Handout ([PDF]({{< baseurl >}}/resources/sort_code))
 
-C Code for Sorting ([C](/courses/electrical-engineering-and-computer-science/6-895-theory-of-parallel-systems-sma-5509-fall-2003/readings/sortcode.c))
+C Code for Sorting ([C]({{< baseurl >}}/resources/sortcode-1))
 
-ASM Code for Sorting (Excerpt) ([ASM](/courses/electrical-engineering-and-computer-science/6-895-theory-of-parallel-systems-sma-5509-fall-2003/readings/sortcode.asm))
+ASM Code for Sorting (Excerpt) ([ASM]({{< baseurl >}}/resources/sortcode))
 
 _Cache-Oblivious Algorithms  
 _  

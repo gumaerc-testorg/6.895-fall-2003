@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 168b835a-d6fc-24a3-3113-0cc27e24ebbc
 resourcetype: Document
 title: kai_thesis.pdf
 uid: a160822f-d9fd-64d3-4058-72c26acdcea2

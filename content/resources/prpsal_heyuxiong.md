@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0fcc1f6b-f683-c4ec-4863-7a5a7625fb99
 resourcetype: Document
 title: prpsal_heyuxiong.pdf
 uid: 0d177a19-649f-b0b4-12c8-b7ae2d7392f5
