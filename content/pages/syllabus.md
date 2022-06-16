@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 18a3c178-fa35-c48b-547d-bf101dad5a73
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -25,7 +30,7 @@ This class covers theoretical foundations of general-purpose parallel computing 
 
 The focus of the class is the term project, which can be done individually or in groups of two and will account for 70 percent of the grade. Students are encouraged to advance their own research interests in their project. The hope is that many of these term projects will lead to theses or publishable papers. In addition, there will be several problem sets and programming labs.
 
-A detailed schedule of topic coverage will appear in the [course calendar]({{< baseurl >}}/pages/calendar).
+A detailed schedule of topic coverage will appear in the {{% resource_link 3dbcfcf0-4795-49ad-4e9f-c1eeae018a95 "course calendar" %}}.
 
 Prerequisites
 -------------

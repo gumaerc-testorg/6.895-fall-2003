@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/c0071afc308a7c31327a0b295aa72a63_mm_simple.h
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/c0071afc308a7c31327a0b295aa72a63_mm_simple.h
 file_type: text/plain
 learning_resource_types:
 - Assignments

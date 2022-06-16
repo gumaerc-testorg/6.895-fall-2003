@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project.
-file: /media/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b5e012c63722c74d9d6504fef3caba00_gilbert.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b5e012c63722c74d9d6504fef3caba00_gilbert.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -12,4 +12,10 @@ parent_uid: 0fcc1f6b-f683-c4ec-4863-7a5a7625fb99
 resourcetype: Document
 title: gilbert.pdf
 uid: b5e012c6-3722-c74d-9d65-04fef3caba00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Student project.
+
