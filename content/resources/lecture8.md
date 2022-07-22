@@ -6,6 +6,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/e14282fa474d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Outline of Lecture 8. Lecturer: Charles Leiserson. Scribe: Kevin Matulef and Barbara Mack.
-

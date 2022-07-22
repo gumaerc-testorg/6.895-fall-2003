@@ -7,6 +7,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/76329e7ed4b90
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Manual produced by Supercomputing Technologies Group,
 MIT Laboratory for Computer Science.
-

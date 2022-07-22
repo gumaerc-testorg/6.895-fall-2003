@@ -6,6 +6,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/20beab408a5b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Outline of Lecture 3. Lecturer: Bradley Kuszmaul and Michael Bender. Scribe: Kenneth Barr and Zardosht Kasheff.
-

@@ -6,6 +6,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/533da8dd57712
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Outline of Lecture 9. Lecturer: Michael A. Bender. Scribe: Alexandru Caracas and C. Scott Ananian.
-

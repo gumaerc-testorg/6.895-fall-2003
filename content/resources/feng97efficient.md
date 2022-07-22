@@ -6,6 +6,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/8313567c7121c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Research paper authored by Mingdong Feng, Department of ISCS, National University of Singapore; and Charles E. Leiserson, MIT Laboratory of Computer Science.
-

@@ -10,6 +10,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/6dc7de52dcf13
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
 By Harold Prokop. Submitted to the
 Department of Electrical Engineering and Computer Science
 on May 21,1999 in partial fulfillment of the requirements for the degree of Master of Science.
-

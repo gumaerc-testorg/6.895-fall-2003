@@ -7,6 +7,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/edd23e9638c46
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Research paper authored by Maurice Herlihy, Digital Equipment Corporation, Cambridge Research Laboratory; and J. Eliot B. Moss, Dept. of Computer Science, University of Massachusetts, Amherst.
-

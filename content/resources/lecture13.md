@@ -6,6 +6,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/eb05b48337a2c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Outline of Lecture 11. Lecturer: Bradley C. Kuszmaul. Scribe: Seth Gilbert and Xie Yong.
-

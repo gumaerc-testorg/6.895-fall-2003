@@ -10,6 +10,7 @@ file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/a160822fd9fd6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
 ---
 Thesis authored by Kai Huang, submitted to the Department of Electrical Engineering and Computer Science in partial fulfillment of the requirements for the degree of
 Master of Engineering in Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, June 2003.
-
