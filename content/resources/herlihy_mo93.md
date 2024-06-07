@@ -4,6 +4,7 @@ description: Research paper authored by Maurice Herlihy, Digital Equipment Corpo
   Cambridge Research Laboratory; and J. Eliot B. Moss, Dept. of Computer Science,
   University of Massachusetts, Amherst.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/edd23e9638c4675cffce1341254837f1_herlihy_mo93.pdf
+file_size: 141511
 file_type: application/pdf
 learning_resource_types:
 - Readings
