@@ -3,6 +3,7 @@ content_type: resource
 description: 'Outline of Lecture 5. Lecturer: Bradley C. Kuszmaul. Scribe: Alexandru
   Caracas and Rui Fan.'
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/45bc830c2e00e55e83db4cf3f1e067fe_lecture5.pdf
+file_size: 215594
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
