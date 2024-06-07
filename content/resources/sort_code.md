@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains C code for insertion sort.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/697ac6434b96c75a9e35f55799077796_sort_code.pdf
+file_size: 464949
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -7,6 +7,7 @@ description: 'By Harold Prokop. Submitted to the
   on May 21,1999 in partial fulfillment of the requirements for the degree of Master
   of Science.'
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/6dc7de52dcf13b53cebf2fe10ae6752a_cach_oblvs_thsis.pdf
+file_size: 493891
 file_type: application/pdf
 learning_resource_types:
 - Readings

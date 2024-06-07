@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/84835346449379f13f92e1c5993b2cc0_youn.pdf
+file_size: 259353
 file_type: application/pdf
 learning_resource_types:
 - Projects

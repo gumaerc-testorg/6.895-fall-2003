@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten notes for Lecture 21.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/60d4590e34b3d4ffaee0c86d7c8cff6f_lecture21_notes.pdf
+file_size: 636188
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

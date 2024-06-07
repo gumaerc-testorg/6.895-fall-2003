@@ -3,6 +3,7 @@ content_type: resource
 description: Research paper authored by Voon-Yee Vee and Wen-Jing Hsu, Centre for
   Advanced Information Systems, SAS, Nanyang Technological University, Singapore.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/99904e459b6b883bba42a84a4ae87348_vee99scalable.pdf
+file_size: 325374
 file_type: application/pdf
 learning_resource_types:
 - Readings

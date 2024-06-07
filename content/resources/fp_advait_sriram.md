@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for student presentation.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/f1d9226744f771f7cbdab75e3f34be91_fp_advait_sriram.pdf
+file_size: 263993
 file_type: application/pdf
 learning_resource_types:
 - Projects

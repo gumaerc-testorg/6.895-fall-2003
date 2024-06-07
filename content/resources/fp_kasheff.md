@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for student project presentation.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/fb9dfb047d3c4e4955b1140b29953a8a_fp_kasheff.pdf
+file_size: 480710
 file_type: application/pdf
 learning_resource_types:
 - Projects

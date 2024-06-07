@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project proposal.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/0994df4c891140262775a51ebc530a25_projectprpsl_xie.pdf
+file_size: 450491
 file_type: application/pdf
 learning_resource_types:
 - Projects

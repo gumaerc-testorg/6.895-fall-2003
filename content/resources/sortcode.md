@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains assembly source code.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/0832be1afdf7c412fff21d55e5d9a1c7_sortcode.asm
+file_size: 1764
 file_type: text/plain
 learning_resource_types:
 - Readings

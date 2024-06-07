@@ -3,6 +3,7 @@ content_type: resource
 description: 'Outline of Lecture 15. Lecturer: Bradley C. Kuszmaul and Michael Bender.
   Scribe: Sharad Ganesh and Neelkamal.'
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/778d1c412b280e9ab5d1538a3d8c5cfc_lecture15.pdf
+file_size: 505999
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

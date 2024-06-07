@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/30312bef5e50180a211e9f888e15ab8e_ps1.pdf
+file_size: 447245
 file_type: application/pdf
 learning_resource_types:
 - Assignments
