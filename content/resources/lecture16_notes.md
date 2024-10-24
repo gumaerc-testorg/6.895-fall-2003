@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes for Lecture 16.
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/3216a43d889c98e63af96d5ac431764d_lecture16_notes.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/3216a43d889c98e63af96d5ac431764d_lecture16_notes.pdf
 file_size: 885230
 file_type: application/pdf
 learning_resource_types:
