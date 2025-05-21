@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project proposal.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/acdd15fa17f8ff204f6e310660324e14_project_proposal.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/acdd15fa17f8ff204f6e310660324e14_project_proposal.pdf
 file_size: 432126
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Outline of Lecture 10. Lecturer: Charles Leiserson.'
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/a54de638968410376d5c27ea7842d20f_lecture10.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/a54de638968410376d5c27ea7842d20f_lecture10.pdf
 file_size: 326087
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Lecture 6. Lecturer: Charles Leiserson. Scribe: Jeremy Fineman
   and Siddhartha Sen.'
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/92c757da34193afc7925267d96a5fca1_lecture6.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/92c757da34193afc7925267d96a5fca1_lecture6.pdf
 file_size: 206358
 file_type: application/pdf
 learning_resource_types:

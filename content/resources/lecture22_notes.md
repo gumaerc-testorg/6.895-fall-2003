@@ -2,7 +2,7 @@
 content_type: resource
 description: Authored by Tom Leighton, MIT. Joint work with Baruch Awerbuch, JHU &
   MIT; Yossi Azar, Tel Aviv U.; Amos Fiat, Tel Aviv U.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/aa7d21b498c254b6ad04477bc2ed29f9_lecture22_notes.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/aa7d21b498c254b6ad04477bc2ed29f9_lecture22_notes.pdf
 file_size: 679457
 file_type: application/pdf
 learning_resource_types:

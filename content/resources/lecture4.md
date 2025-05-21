@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Lecture 4. Lecturer: Michael Bender. Scribe: Sid Sen and
   Jim Sukha.'
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/4a50951d57336f8ffb8af8fbfbb22b4d_lecture4.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/4a50951d57336f8ffb8af8fbfbb22b4d_lecture4.pdf
 file_size: 306251
 file_type: application/pdf
 learning_resource_types:

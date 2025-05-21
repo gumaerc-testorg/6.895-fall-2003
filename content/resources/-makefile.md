@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/1e51085f258c55f6f3595230dba1a096_.Makefile
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/1e51085f258c55f6f3595230dba1a096_.Makefile
 file_size: 79
 file_type: text/plain
 learning_resource_types:
