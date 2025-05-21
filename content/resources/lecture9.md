@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Lecture 9. Lecturer: Michael A. Bender. Scribe: Alexandru
   Caracas and C. Scott Ananian.'
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/533da8dd57712f1c0414ef6c84baf90a_lecture9.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/533da8dd57712f1c0414ef6c84baf90a_lecture9.pdf
 file_size: 221284
 file_type: application/pdf
 learning_resource_types:

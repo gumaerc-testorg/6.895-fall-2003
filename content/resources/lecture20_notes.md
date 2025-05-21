@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwitten notes for Lecture 20.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/0fe04940aaacdb0d5cc843ec7841c903_lecture20_notes.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/0fe04940aaacdb0d5cc843ec7841c903_lecture20_notes.pdf
 file_size: 106432
 file_type: application/pdf
 learning_resource_types:

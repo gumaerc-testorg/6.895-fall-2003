@@ -3,7 +3,7 @@ content_type: resource
 description: These notes contain two lectures that teach multithreaded algorithms
   using a Cilk-like model. Produced by Harold Prokop and Charles Leiserson, MIT Laboratory
   for Computer Science.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/9cf3ee7891b56e3e966928ba8dced3f3_minicourse.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/9cf3ee7891b56e3e966928ba8dced3f3_minicourse.pdf
 file_size: 325431
 file_type: application/pdf
 learning_resource_types:
