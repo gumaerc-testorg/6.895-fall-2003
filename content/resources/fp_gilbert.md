@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for student project presentation.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/cf6de56c4724b3fe87a270d3fd98c762_fp_gilbert.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/cf6de56c4724b3fe87a270d3fd98c762_fp_gilbert.pdf
 file_size: 151641
 file_type: application/pdf
 learning_resource_types:

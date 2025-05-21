@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains C code.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b3deed7d753cd9051ad9652f9bfc0bae_sortcode.c
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b3deed7d753cd9051ad9652f9bfc0bae_sortcode.c
 file_size: 2521
 file_type: text/plain
 learning_resource_types:

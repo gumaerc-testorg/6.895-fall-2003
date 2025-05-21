@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project.
-file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b5e012c63722c74d9d6504fef3caba00_gilbert.pdf
+file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/b5e012c63722c74d9d6504fef3caba00_gilbert.pdf
 file_size: 168854
 file_type: application/pdf
 learning_resource_types:
