@@ -2,7 +2,7 @@
 content_type: resource
 description: Research abstract authored by Matteo Frigo, Charles E. Leiserson, Harold
   Prokop, and Sridhar Ramachandran, MIT Laboratory for Computer Science.
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/7e5331aae765482e87251ba75d9aeabe_cach_oblivs_focs.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/7e5331aae765482e87251ba75d9aeabe_cach_oblivs_focs.pdf
 file_size: 236360
 file_type: application/pdf
 learning_resource_types:
