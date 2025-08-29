@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Lecture 7. Lecturer: Charles Leiserson. Scribe: C. Scott
   Ananian and Barbara Mack.'
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/1f5fa7ad8d9e595ae6698dd3d07dd38c_lecture7.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/1f5fa7ad8d9e595ae6698dd3d07dd38c_lecture7.pdf
 file_size: 214209
 file_type: application/pdf
 learning_resource_types:

@@ -6,7 +6,7 @@ description: 'Thesis authored by Kai Huang, submitted to the Department of Elect
 
   Master of Engineering in Electrical Engineering and Computer Science at the Massachusetts
   Institute of Technology, June 2003.'
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/a160822fd9fd64d3405872c26acdcea2_kai_thesis.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/a160822fd9fd64d3405872c26acdcea2_kai_thesis.pdf
 file_size: 592473
 file_type: application/pdf
 learning_resource_types:

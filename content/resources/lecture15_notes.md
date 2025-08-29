@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes for the spin-block problem from Lecture 15.
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/000598e8590205b3383f03ecc5b6cae2_lecture15_notes.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/000598e8590205b3383f03ecc5b6cae2_lecture15_notes.pdf
 file_size: 106863
 file_type: application/pdf
 learning_resource_types:

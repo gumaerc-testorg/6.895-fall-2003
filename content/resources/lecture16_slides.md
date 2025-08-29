@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide presentation of Lecture 16.
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/fcf0b1034ccbdd51cb3c06c74a41bcab_lecture16_slides.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/fcf0b1034ccbdd51cb3c06c74a41bcab_lecture16_slides.pdf
 file_size: 162922
 file_type: application/pdf
 learning_resource_types:
