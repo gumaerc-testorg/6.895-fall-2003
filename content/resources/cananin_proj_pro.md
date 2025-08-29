@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project proposal.
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/79b302b3b7eac92627fe9850cdaf9e84_cananin_proj_pro.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/79b302b3b7eac92627fe9850cdaf9e84_cananin_proj_pro.pdf
 file_size: 464071
 file_type: application/pdf
 learning_resource_types:

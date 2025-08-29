@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of Lecture 1. Lecturer: Charles Leiserson. Scribe: Abhi Shelat
   and Ben Adida.'
-file: /courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/4cbfff15cec4326bb2333e81aa5e6732_lecture1.pdf
+file: /ol-ocw-studio-app/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/4cbfff15cec4326bb2333e81aa5e6732_lecture1.pdf
 file_size: 156134
 file_type: application/pdf
 learning_resource_types:
