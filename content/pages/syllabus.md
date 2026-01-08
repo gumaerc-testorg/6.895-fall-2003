@@ -19,7 +19,7 @@ Two sessions / week
 Lec 1: 2 hours / session  
 Lec 2: 1.5 hours / session  
 
-Both lectures will be attended by students from Singapore. Lectures will be videotaped and made available through the {{% resource_link "7f2cf7b4-fd18-4643-8ee8-5d13ddd7a4e0" "Singapore-MIT Alliance" %}} program.
+Both lectures will be attended by students from Singapore. Lectures will be videotaped and made available through the [Singapore-MIT Alliance](http://web.mit.edu/sma) program.
 
 Introduction
 ------------
